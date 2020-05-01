@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "Anand's Stream",
+      "description": "It seems cool",
+      "id": 1
+    },
+    {
+      "title": "Shreya's Stream",
+      "description": "Its fantanstic",
+      "id": 2
+    },
+    {
+      "title": "Thalivas Stream",
+      "description": "Its good",
+      "id": 3
+    },
+    {
+      "title": "Golden Stream",
+      "description": "It should have ID",
+      "userId": "116131408710218443811",
+      "id": 4
+    },
+    {
+      "title": "Patch Request",
+      "description": "Patch request does not change other properties",
+      "userId": "116131408710218443811",
+      "id": 5
+    },
+    {
+      "title": "My Edited Strream",
+      "description": "yaaaa i did it",
+      "id": 6
+    }
+  ]
+}
